@@ -1,0 +1,5 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email,statusCode,scenario
+12345678,123456789012,New York,TradeName1,1234567890,email1@example.com,200,successful operation, existing branch returned
+87654321,210987654321,Los Angeles,TradeName2,0987654321,email2@example.com,201,successful operation, branch created
+N/A,N/A,N/A,N/A,N/A,N/A,400,Bad Request
+N/A,N/A,N/A,N/A,N/A,N/A,401,Authentication Required
