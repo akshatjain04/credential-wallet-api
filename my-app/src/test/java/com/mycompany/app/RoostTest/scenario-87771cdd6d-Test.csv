@@ -1,0 +1,3 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+DELETE^|^http://localhost:8080/authorizations/ID^|^{}^|^{}^|^200^|^{}
+GET^|^http://localhost:8080/authorizations^|^{}^|^{}^|^200^|^[]
