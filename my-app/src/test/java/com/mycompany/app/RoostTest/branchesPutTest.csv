@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email,statusCode
+12345678,123456789123,New York,SuperMart,2125551212,supermart@shop.com,200
+87654321,987654321987,Los Angeles,TechWorld,3105551212,techworld@shop.com,200
+23456789,234567891234,Chicago,Foodie's Delight,7735551212,foodiesdelight@shop.com,200
+34567890,345678901234,San Francisco,The Apparel Store,4155551212,apparelstore@shop.com,200
+56789012,567890123456,Austin,BookLand,5125551212,bookland@shop.com,200
+67890123,678901234567,Seattle,GreenGrocer,2065551212,greengrocer@shop.com,200
+78901234,789012345678,Dallas,AutoMoto,9725551212,automoto@shop.com,200
+89012345,890123456789,Denver,SmartHome,3035551212,smarthome@shop.com,200
+90123456,901234567890,Boston,TravelWorld,6175551212,travelworld@shop.com,200
+01234567,012345678901,Portland,MusicNow,5035551212,musicnow@shop.com,200
