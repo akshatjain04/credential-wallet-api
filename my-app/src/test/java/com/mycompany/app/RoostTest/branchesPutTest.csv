@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email,statusCode
+12345678,123456789012,Los Angeles,Mega Corp,1234567891,test1@email.com,200
+87654321,210987654321,New York,Alpha Ltd,9876543210,test2@email.com,201
+11223344,443322110099,Chicago,DeepBlue Inc,5554443322,test3@email.com,200
+22334455,556677889911,London,Red Stone,7776665554,test4@email.com,200
+33445566,667788991122,Paris,Gravitonics,8887776665,test5@email.com,201
+44556677,778899112233,Munich,Relativity Solutions,9998887776,test6@email.com,200
+55667788,889911223344,Sydney,Large Hardron Ltd,1110009998,test7@email.com,201
+66778899,991122334455,Tokyo,SuperNova LLC,2221110009,test8@email.com,200
+77889911,112233445566,Berlin,Quantum Tech,3332221110,test9@email.com,200
+88991122,223344556677,Moscow,Big Bang Corp,4443332221,test10@email.com,201
