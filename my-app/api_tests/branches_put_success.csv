@@ -1,0 +1,11 @@
+cocNumber,city,cocBranchNumber,tradeName,phone,email
+12345678,London,123456789012,London Trading,0712345678,londtrading@example.com
+23456789,Paris,234567890123,Paris Trading,0723456789,paristrading@example.com
+34567890,Berlin,345678901234,Berlin Trading,0734567890,berlintrading@example.com
+45678901,Madrid,456789012345,Madrid Trading,0745678901,madridtrading@example.com
+56789012,Rome,567890123456,Rome Trading,0756789012,rometrading@example.com
+67890123,Amsterdam,678901234567,Amsterdam Trade,0767890123,amstradmtrade@example.com
+78901234,Vienna,789012345678,Vienna Trading,0778901234,viennatrading@example.com
+89012345,Copenhagen,890123456789,Copenhagen Trading,0789012345,copentrading@example.com
+90123456,Helsinki,901234567890,Helsinki Trading,0790123456,helsinkitrading@example.com
+01234567,Oslo,012345678901,Oslo Trading,0701234567,oslotrading@example.com
