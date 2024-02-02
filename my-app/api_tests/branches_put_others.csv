@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456789012,New York,Trade One,1234567890,tradeone@email.com
+87654321,210987654321,London,Trade Two,,tradetwo@email.co.uk
+23456781,234567890121,Paris,Trade Three,0987654321,tradethree@email.fr
+56781234,341290876543,Sydney,Trade Four,5678901234,
+34567812,212345678901,Berlin,Trade Five,7890123456,tradefive@email.de
+89012345,345678901234,Tokyo,Trade Six,,tradesix@email.jp
+67890123,543210987654,Rome,Trade Seven,9012345678,tradeseven@email.it
+12309876,654321098765,Beijing,Trade Eight,1234098765,
+09812345,765432109876,Moscow,Trade Nine,2345098761,tradeneigh@email.ru
+34561234,654321098765,Istanbul,Trade Ten,,tradeten@email.tr
