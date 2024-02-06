@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,statusCode
+JK,John,Kane,Doe,1980-02-17,London,1234567890,johndoe@gmail.com,56789,25,B,GB,jd_123,201
+LF,Lucy,Fernandes,Smith,1990-08-25,Paris,2345678910,lucysmith@yahoo.com,23456,12,A,FR,ls_456,201
+NC,Nathan,Carter,Johnson,1975-12-05,Rome,3456789123,natejohnson@hotmail.com,34567,98,,IT,nj_789,201
+BT,Belle,Taylor,Williams,1985-07-13,Sydney,4567891234,bellewilliams@outlook.com,45678,55,C,AU,bw_012,201
+OP,Oliver,Parker,Brown,1995-04-21,Tokyo,5678912345,obrown@icloud.com,56789,78,D,JP,ob_345,201
+SM,Sarah,Mitchell,Garcia,2000-01-30,Delhi,6789123456,sarahmitchell@yahoo.com,67891,22,,IN,sm_678,201
+CB,Chris,Bennett,Miller,1978-06-15,Moscow,7891234567,chris.miller@gmail.com,78912,33,E,RU,cm_901,201
+PD,Paul,Davis,Smith,2002-10-25,Beijing,8912345678,paulsmith@outlook.com,89123,44,F,CN,ps_234,201
+JE,Jessica,Evans,Thompson,1998-05-20,Rio,9123456789,jessicathompson@yahoo.com,91234,66,G,BR,jt_567,201
+AH,Anna,Henderson,Anderson,1992-09-15,Berlin,1234567890,anna.anderson@gmail.com,12345,77,H,DE,aa_890,201

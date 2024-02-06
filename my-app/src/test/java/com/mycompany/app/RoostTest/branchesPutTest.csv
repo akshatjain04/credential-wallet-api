@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email,statusCode
+12345678,123456789012,New York,TradeOne,1234567890,tradeone@gmail.com,200
+23456789,234567890123,Los Angeles,TradeTwo,2345678901,tradetwo@gmail.com,201
+34567890,345678901234,Chicago,TradeThree,3456789012,tradethree@gmail.com,200
+45678901,456789012345,Houston,TradeFour,4567890123,tradefour@gmail.com,201
+56789012,567890123456,Phoenix,TradeFive,5678901234,tradefive@gmail.com,200
+67890123,678901234567,Philadelphia,TradeSix,6789012345,tradesix@gmail.com,201
+78901234,789012345678,San Antonio,TradeSeven,7890123456,tradesven@gmail.com,200
+89012345,890123456789,San Diego,TradeEight,8901234567,tradeeight@gmail.com,201
+90123456,901234567890,Dallas,TradeNine,9012345678,tradenine@gmail.com,200
+01234567,012345678901,San Jose,TradeTen,0123456789,tradeten@gmail.com,201

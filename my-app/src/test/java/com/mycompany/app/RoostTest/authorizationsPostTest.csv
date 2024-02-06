@@ -1,0 +1,11 @@
+email,statusCode
+john.doe@example.com,201
+jane.doe@example.com,401
+richard.roe@example.org,400
+harry.potter@hogwarts.co.uk,201
+hermione.granger@hogwarts.co.uk,401
+ron.weasley@hogwarts.co.uk,400
+tom.riddle@hogwarts.co.uk,201
+severus.snape@hogwarts.co.uk,401
+dumbledore@hogwarts.co.uk,400
+mcgonagall@hogwarts.co.uk,201
