@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl,statusCode
+3f8db8b9-736f-4a8b-8de1-fcdc2887ad42,User1,2022-01-01,2022-12-31,http://example.com/credential1,201
+f40e15b0-312e-4f0d-b444-22e3c2196d0e,User2,2022-02-01,2022-12-31,http://example.com/credential2,201
+240e99a3-4297-4c94-9b29-1c05dec792c0,User3,2022-03-01,2022-12-31,http://example.com/credential3,401
+ae5789a9-cac6-4af1-a971-4e8e4dfaf72a,User4,2022-04-01,2022-12-31,http://example.com/credential4,201
+8d940df6-932d-41d2-98f1-485fb76998c3,User5,2022-05-01,2022-12-31,http://example.com/credential5,400
+03350e1f-ca4c-4eba-b170-4e290cc1050d,User6,2022-06-01,2022-12-31,http://example.com/credential6,401
+edb75765-5c92-4edf-9f5b-1d42b837bed9,User7,2022-07-01,2022-12-31,http://example.com/credential7,201
+da22ee93-c1c0-4ef2-9f1f-2d0d63f3b2f8,User8,2022-08-01,2022-12-31,http://example.com/credential8,201
+fbba000b-2922-4cfa-83ad-160319451958,User9,2022-09-01,2022-12-31,http://example.com/credential9,400
+6d949a94-7680-4ecd-a95d-4b876c354570,User10,2022-10-01,2022-12-31,http://example.com/credential10,401
