@@ -1,0 +1,11 @@
+email,statusCode
+alice@example.com,201
+bob@example.com,401
+charlie@example.com,400
+david@example.com,201
+eric@example.com,401
+frank@example.com,400
+george@example.com,201
+harry@example.com,401
+ian@example.com,400
+james@example.com,201

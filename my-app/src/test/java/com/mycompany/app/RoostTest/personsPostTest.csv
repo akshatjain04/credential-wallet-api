@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,statusCode
+FP,Frank,Peter,Johnson,1980-08-07,New York,9175550147,fjohnson@site.com,10002,119,2A,US,FRJOHNYC,201
+RA,Rachel,Amy,Smith,1975-05-20,Boston,6175550155,rsmith@site.com,02110,45,,US,RASMITBOS,201
+BS,Benjamin,Scott,Brown,1978-11-12,Chicago,3125550151,bbrown@site.com,60607,265,3B,US,BESBRCHI,201
+CC,Christina,Catherine,Davis,1965-01-31,Phoenix,6025550154,cdavis@site.com,85001,842,,US,CHRSDAPH,201
+JT,James,Thomas,Miller,1970-12-12,Houston,7135550159,jmiller@site.com,77002,99,A,US,JAMTMHOU,201
+EG,Emily,Grace,Garcia,1972-07-24,Philadelphia,2155550137,egarcia@site.com,19102,621,B,US,EMGRCPHI,201
+WT,William,Thomas,Rodriguez,1965-04-29,Dallas,2145550168,wrodriguez@site.com,75201,282,1A,US,WILTRDAL,201
+SS,Sophia,Sarah,Martinez,1970-03-03,San Diego,6195550132,smartinez@site.com,92101,432,1B,US,SOPMSADG,201
+CM,Christopher,Michael,Clark,1960-05-20,San Francisco,4155550113,cclark@site.com,94102,98,A,US,CHRMICRF,201
+DJ,Daniel,James,Moore,1990-02-06,Charlotte,7045550138,dmoore@site.com,28202,621,,US,DANJMOCH,201

@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl,statusCode
+3d3f78e2-5f93-4760-b4e2-561de130456d,Ref1,2019-07-23,2019-08-15,http://credentialurl.com/user1,200
+489871ae-ee45-4afb-941e-87f9fc7188ef,Ref2,2020-06-14,2020-10-10,http://credentialurl.com/user2,201
+bf6b73e9-628a-4eb5-bd9a-f48ea27bb167,Ref3,2018-02-03,2018-06-09,http://credentialurl.com/user3,401
+c431e3c0-10d4-4cd0-9b90-cd86036f759b,Ref4,2017-09-17,2017-12-20,http://credentialurl.com/user4,400
+f95c1449-0aa9-43ae-b9ee-94728f9f20ff,Ref5,2021-01-05,2021-05-03,http://credentialurl.com/user5,201
+6ab8e173-500c-4ec0-906d-962509076a19,Ref6,2019-10-23,2020-01-01,http://credentialurl.com/user6,200
+728e1b1a-ee7f-4b43-add2-14f052721442,Ref7,2021-06-15,2021-10-11,http://credentialurl.com/user7,400
+6198f3ff-22e5-481d-8666-aec63b813127,Ref8,2016-03-19,2016-07-15,http://credentialurl.com/user8,401
+7e33ddf4-de22-4b25-8c02-716e4c754106,Ref9,2020-02-10,2020-06-08,http://credentialurl.com/user9,201
+aa2d963a-1470-4abd-937a-d549f63bf8a1,Ref10,2018-09-12,2018-12-30,http://credentialurl.com/user10,200
