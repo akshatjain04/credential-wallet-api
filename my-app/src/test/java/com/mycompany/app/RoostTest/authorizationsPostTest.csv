@@ -1,0 +1,11 @@
+email,statusCode
+john_doe@gmail.com,201
+sarah_smith@hotmail.com,400
+peter_parker@yahoo.com,401
+jane_doe@outlook.com,201
+michael_scott@dundermifflin.com,401
+pam_beesly@dundermifflin.com,400
+jim_halpert@dundermifflin.com,201
+dwight_schrute@dundermifflin.com,401
+oscar_martinez@dundermifflin.com,400
+kevin_malone@dundermifflin.com,201
