@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl,statusCode
+3e2f1e12-234f-4f72-ba1a-feb6addaef88,XYZCOMPANY,2020-01-01,2022-12-31,http://xyzcompany.com,201
+2141fa2b-6337-4ef1-8ebc-077ff601a731,ABCPRODUCTS,2021-05-11,2023-04-10,https://abcproducts.com,201
+5381b012-a39b-420b-9e65-2dbbd1220223,DEFINSTITUTE,2020-04-20,2024-03-19,http://definstitute.org,401
+2631a104-c2df-4dcc-8d23-8105ff992822,GHIINDUSTRIES,2019-07-07,2021-06-06,https://ghiindustries.net,400
+0221a1e5-234f-4f72-ba1a-feb6adda0a40,IJKSERVICES,2022-08-15,2024-07-14,http://ijkservices.com,201
+1285ee01-7742-4518-9873-1feb666b12bc,LMNOPCORP,2020-02-02,2022-01-01,https://lmnopcorp.org,401
+3311b019-420b-420b-9e65-2dbbd12b23d1,QRSBRANDS,2019-12-12,2021-11-11,http://qrsbrands.net,400
+4421c103-4acc-4dcc-8d23-8105ffd9a009,TUVTECHNOLOGIES,2018-09-09,2020-08-08,https://tuvtechnologies.com,201
+5502g1e8-7742-4518-9873-1feb666a11b1,WXYZVENTURES,2017-10-10,2019-09-09,http://wxyzventures.org,401
+6633h014-c2df-4dcc-8d23-8105ff99a112,RSTUTILITIES,2021-03-03,2023-02-02,https://rstutilities.net,400

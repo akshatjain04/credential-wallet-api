@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,statusCode
+JD,John,Doe,Dilinger,1980-01-01,New York,1234567890,john.doe@gmail.com,10001,22,A,US,REF00001,201
+AS,Amy,Schumer,Depp,1970-02-02,California,2345678901,amy.schumer@gmail.com,90001,23,B,US,REF00002,201
+KD,Kevin,Durant,Waugh,1985-03-03,Texas,3456789012,kevin.durant@gmail.com,75001,24,C,US,REF00003,201
+AG,Ariana,Grande,Smith,1993-04-04,Florida,4567890123,ariana.grande@gmail.com,33101,25,D,US,REF00004,201
+TS,Taylor,Swift,Jones,1989-05-05,Pennsylvania,5678901234,taylor.swift@gmail.com,19103,26,E,US,REF00005,201
+DJ,Drake,Johnson,Thomas,1986-06-06,Toronto,6789012345,drake.johnson@gmail.com,M5H2N2,27,F,CA,REF00006,201
+BJ,Beyonce,Knowles,Jackson,1981-07-07,Texas,7890123456,beyonce.knowles@gmail.com,77002,28,G,US,REF00007,201
+RB,Rihanna,Bravo,Johnson,1988-08-08,Bridgetown,8901234567,rihanna.bravo@gmail.com,11000,29,H,BB,REF00008,201
+MB,Michael,Buble,Martin,1975-09-09,British Columbia,9012345678,michael.buble@gmail.com,V5K0A1,30,I,CA,REF00009,201
+AC,Adele,Carter,Williams,1988-10-10,London,12345678901,adele.carter@gmail.com,E20 1JN,31,J,GB,REF00010,201
