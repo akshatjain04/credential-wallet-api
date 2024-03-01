@@ -1,0 +1,4 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+POST^|^http://localhost:8080/accounts^|^api-version: 1.0.0, commit-hash: 928d28d^|^email: testemail@example.com^|^201^|^api-version: 1.0.0, commit-hash: 928d28d
+POST^|^http://localhost:8080/authorizations^|^api-version: 1.0.0, Token: apiKeyTest^|^email: testemail@example.com^|^201^|^id: dummyUUID, name: dummyName, email: testemail@example.com, createdAt: dummydatetime, updatedAt: dummydatetime, api-version: 1.0.0, location: dummyLocation
+GET^|^http://localhost:8080/authorizations^|^api-version: 1.0.0, Token: apiKeyTest^|^--NONE--^|^200^|^total: 1, authorizations: [{id: dummyUUID, name: dummyName, email: testemail@example.com, createdAt: dummydatetime, updatedAt: dummydatetime}], api-version: 1.0.0
