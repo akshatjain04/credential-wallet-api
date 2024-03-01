@@ -1,0 +1,3 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+delete^|^http://localhost:8080/authorizations/ID^|^{"apiKey": "Token"}^|^{}^|^200^|^{"description": "successful operation", "headers": {"api-version": "1.0.0"}}
+get^|^http://localhost:8080/authorizations^|^{"apiKey": "Token"}^|^{}^|^200^|^{"total": 0, "authorizations": [] , "authorizations.0": {} , "authorizations.0.id": "", "authorizations.0.name": "" ,"authorizations.0.email": "", "authorizations.0.createdAt": "", "authorizations.0.updatedAt": "", "headers": {"api-version": "1.0.0"}}
