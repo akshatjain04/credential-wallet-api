@@ -1,0 +1,2 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+GET^|^http://localhost:8080/recipients/persons/09237482347/registrations?size=43&offset=22^|^Token: null^|^{}^|^401^|^{"headers":{"api-version":"1.0.0"}}
