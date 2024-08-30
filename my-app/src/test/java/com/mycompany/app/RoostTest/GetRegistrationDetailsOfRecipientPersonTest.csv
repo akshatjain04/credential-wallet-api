@@ -1,0 +1,23 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+GET^|^http://localhost:8080/recipients/persons/27364922937/registrations?size=13&offset=42^|^{"Token": "YourAuthToken", "api-version": "1.0.0"}^|^^|^200^|^{
+  "total": 1,
+  "registrations": [
+    {
+      "id": "uuidValue",
+      "reference": null,
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "status": "active",
+      "credentialUrl": "http://example.com/credential/123",
+      "suspendedUntil": null,
+      "issuedAt": null,
+      "createdAt": "2021-01-01T12:00:00Z",
+      "updatedAt": "2021-01-02T12:00:00Z"
+    }
+  ],
+  "headers": {
+    "api-version": "1.0.0",
+    "page-size": 13,
+    "page-offset": 42
+  }
+}
